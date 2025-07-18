@@ -1,0 +1,4 @@
+Hello world! This is a sample text file.
+Python is fun. Hello Python, hello world.
+Text files are used for input and output in Python.
+Acknowledge Me I am the Tribal Chief.
